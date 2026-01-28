@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36511.14 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLC", "SLC\SLC.csproj", "{160DFEAF-D460-4779-AB78-B24C3DACF789}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sLC", "SLC\sLC.csproj", "{160DFEAF-D460-4779-AB78-B24C3DACF789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{CEB7CDEF-46DC-43F4-9861-43971F7CC299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{160DFEAF-D460-4779-AB78-B24C3DACF789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{160DFEAF-D460-4779-AB78-B24C3DACF789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{160DFEAF-D460-4779-AB78-B24C3DACF789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB7CDEF-46DC-43F4-9861-43971F7CC299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB7CDEF-46DC-43F4-9861-43971F7CC299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB7CDEF-46DC-43F4-9861-43971F7CC299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB7CDEF-46DC-43F4-9861-43971F7CC299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
